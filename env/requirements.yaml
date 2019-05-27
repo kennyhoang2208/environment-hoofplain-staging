@@ -7,6 +7,10 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
+- alias: testdb
+  name: postgresql
+  repository: https://kubernetes-charts.storage.googleapis.com
+  version: 5.1.0
 - name: spring-testing
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.8
