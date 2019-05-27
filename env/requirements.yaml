@@ -11,3 +11,9 @@ dependencies:
   name: postgresql
   repository: https://kubernetes-charts.storage.googleapis.com
   version: 5.1.0
+- name: spring-testing
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.8
+- name: spring-testing-consumer
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
