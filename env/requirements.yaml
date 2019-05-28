@@ -13,7 +13,7 @@ dependencies:
   version: 5.1.0
 - name: spring-testing
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.12
+  version: 0.0.13
 - name: spring-testing-consumer
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
